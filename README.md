@@ -1,2 +1,2 @@
 # SIP
-SIP all the codes
+SIP all the python codes (week 2)
